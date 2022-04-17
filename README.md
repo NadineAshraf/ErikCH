@@ -1,4 +1,4 @@
-# ErikCH
+
 <h1 align="center">Hi 👋, I'm Fresh Graduate from Faculty of Engineering (Communication & Elecronics Department)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
