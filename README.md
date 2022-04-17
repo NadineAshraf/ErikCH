@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nadine Ashraf</h1>
 <h3 align="center">A passionate Embedded Software & IoT Developer from Egypt </h3>
 
-- 🔭 I’m currently working on **Firmware Over the Air**
+- 🔭 I’m currently working on **Firmware Over the Air.**
 
-- 🌱 I’m currently learning **Embedded Systems & IoT**
+- 🌱 I’m currently learning **Embedded Systems & IoT.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **nadinashraf06@gmail.com**
 
