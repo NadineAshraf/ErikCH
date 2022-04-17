@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Fresh Graduate from Faculty of Engineering (Communication & Elecronics Department)</h1>
+<h1 align="center">Hi 👋, I'm Nadine Ashraf</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Firmware Over the Air**
