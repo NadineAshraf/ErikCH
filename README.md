@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nadine Ashraf</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Embedded Software & IoT Developer from Egypt </h3>
 
 - 🔭 I’m currently working on **Firmware Over the Air**
 
