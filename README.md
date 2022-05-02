@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Embedded Systems & IoT**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Embedded & IoT Projects**
 
 - 📫 How to reach me **nadinashraf06@gmail.com**
 
