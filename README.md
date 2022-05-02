@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadineashraf" alt="nadineashraf" /></a> </p>
 
-- 🔭 I’m currently working on **Firmware Over the Air**
+- 🔭 I’m currently working on **Firmware Over the Air**.
 
-- 🌱 I’m currently learning **Embedded Systems & IoT**
+- 🌱 I’m currently learning **Embedded Systems & IoT**.
 
-- 👯 I’m looking to collaborate on **Embedded & IoT Projects**
+- 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
 
 - 📫 How to reach me **nadinashraf06@gmail.com**
 
