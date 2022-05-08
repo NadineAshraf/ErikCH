@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Firmware Over the Air**.
 
-- 🌱 I’m currently learning **Embedded Systems & IoT**.
+- 🌱 I’m currently learning **Quality Control and German Language** as I have Good Knowledge in **Embedded systems & IoT fields** .
 
 - 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
 
