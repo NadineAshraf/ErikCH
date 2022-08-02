@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Speaking glove for deaf and dump**.
 
-- 🌱 I’m currently learning **Testing and German Language** as I have Good Knowledge in **Embedded systems & IoT fields** .
+- 🌱 I’m currently learning **Embedded systems & IoT** .
 
 - 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
 
