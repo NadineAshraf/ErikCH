@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadineashraf" alt="nadineashraf" /></a> </p>
 
-- 🔭 I’m currently working on **Speaking glove for deaf and dump**.
+- 🔭 I’m currently working in **Embedded Systems track at ITI**.
 
 - 🌱 I’m currently learning **Embedded systems & IoT** .
 
