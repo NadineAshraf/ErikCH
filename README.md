@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
 
-- 📫 How to reach me **nadinashraf06@gmail.com**
+- 📫 How to reach me **nadineashrafes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
