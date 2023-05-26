@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadineashraf" alt="nadineashraf" /></a> </p>
 
-- 🔭 I’m currently working in **Embedded Systems track at ITI**.
+- 🔭 I’m currently working as **Embedded Software Engineer at Valeo**.
 
-- 🌱 I’m currently learning **Embedded systems & IoT** .
+- 🌱 I’m currently learning **Embedded systems** .
 
 - 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
 
