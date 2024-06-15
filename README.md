@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as **Embedded Software Engineer at Valeo**.
 
-- 🌱 I’m currently learning **Embedded systems** .
+- 🌱 I’m currently learning **Embedded systems and Testing** .
 
-- 👯 I’m looking to collaborate on **Embedded & IoT Projects**.
+- 👯 I’m looking to collaborate on **Embedded & Testing Projects**.
 
 - 📫 How to reach me **nadineashrafes@gmail.com**
 
