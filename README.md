@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadine Ashraf</h1>
-<h3 align="center">A passionate Embedded Software & IoT Developer from Egypt</h3>
+<h3 align="center">A passionate Embedded Software & IoT Developer & Testing from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadineashraf&label=Profile%20views&color=0e75b6&style=flat" alt="nadineashraf" /> </p>
 
